@@ -1,4 +1,4 @@
-# intellikack_team_vertex
+# intellihack_team_vertex
 
 ## team members: 
 - Tharindu Damruwan
